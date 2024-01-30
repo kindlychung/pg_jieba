@@ -29,6 +29,13 @@ Install Postgres:
   ```
   sudo yum install postgresql postgresql-server postgresql-devel
   ```
+
+  For ubuntu/debian:
+
+  ```
+  sudo apt install postgresql postgresql-server-dev-15
+  ```
+
 * Option:  
   Download From http://www.enterprisedb.com/products-services-training/pgdownload
 
